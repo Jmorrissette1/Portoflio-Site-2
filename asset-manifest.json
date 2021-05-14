@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Portoflio-Site-2/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/Portoflio-Site-2/static/js/main.97115125.chunk.js",
+    "main.js.map": "/Portoflio-Site-2/static/js/main.97115125.chunk.js.map",
+    "runtime-main.js": "/Portoflio-Site-2/static/js/runtime-main.48c588c9.js",
+    "runtime-main.js.map": "/Portoflio-Site-2/static/js/runtime-main.48c588c9.js.map",
+    "static/js/2.48a54330.chunk.js": "/Portoflio-Site-2/static/js/2.48a54330.chunk.js",
+    "static/js/2.48a54330.chunk.js.map": "/Portoflio-Site-2/static/js/2.48a54330.chunk.js.map",
+    "static/js/3.aaafd304.chunk.js": "/Portoflio-Site-2/static/js/3.aaafd304.chunk.js",
+    "static/js/3.aaafd304.chunk.js.map": "/Portoflio-Site-2/static/js/3.aaafd304.chunk.js.map",
+    "index.html": "/Portoflio-Site-2/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/Portoflio-Site-2/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.48a54330.chunk.js.LICENSE.txt": "/Portoflio-Site-2/static/js/2.48a54330.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Portoflio-Site-2/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48c588c9.js",
+    "static/js/2.48a54330.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.97115125.chunk.js"
+  ]
+}
